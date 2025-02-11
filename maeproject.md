@@ -9,7 +9,7 @@ A web-based interactive Valentine's gift that displays a collection of 7-8 speci
    - Each card contains:
      - Embedded MP3 audio player with song snippet
      - Personal message
-     - Optional: photo or simple animation
+     - Multiple videos/photos
    - Smooth open/close animations
    - Visible indication of unplayed/played status
 
@@ -23,7 +23,7 @@ A web-based interactive Valentine's gift that displays a collection of 7-8 speci
    - Background music that matches the generated memory's mood
 
 3. Visual Design
-   - Clean, romantic aesthetic
+   - Flowery, romantic aesthetic
    - Floating/arranged cards in an artful layout
    - Soft color palette (suggested: rose golds, soft pinks, warm whites)
    - Elegant typography for messages
